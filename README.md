@@ -1,6 +1,6 @@
 **BookManagementTool**
 =
-> An lovely Java project built mainly by Swing, JDBC, and MySql
+> A lovely Java project built mainly by Swing, JDBC, and MySql
 
 #### - Swing and JFrame is definitely not easy to use on mac lol, but at least I made it. Yikes!
 #### - For Example, the Jtable can't be created automatically using the design tool. (Because the IDE just wouldn't respond if we do so and we have to kill the IDE. And I don't think Swing will give Mac user a better fidelity in a short term.) To be able to use it, I have to manually write the code for the table and it's just so much of time to spend on...
