@@ -11,7 +11,7 @@
 $ git clone [repo URL]
 $ cd ./foldername
 ```
- - I have packaged the project into a jar file, so it's runnable and easy to use. Just make sure you have your MySql running and JRE configured
+ - I have packaged the project into a jar file, so it's runnable and easy to use. Just make sure you have your JRE configured
 
 - Wanna run it with terminal? Easy!
 
